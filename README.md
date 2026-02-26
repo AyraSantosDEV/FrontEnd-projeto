@@ -31,11 +31,11 @@ Recriar e estruturar o frontend da página aplicando boas práticas de desenvolv
 ---
 
 ## 📂 Estrutura do Projeto
-#FrontEnd-projeto/
-#│
-#├── index.html
-#├── css/
-#│ └── style.css
-#├── js/
+FrontEnd-projeto/
+│
+├── index.html
+├── css/
+│ └── style.css
+├── js/
 #│ └── script.js
 #└── README.md
