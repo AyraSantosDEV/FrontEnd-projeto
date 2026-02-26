@@ -29,13 +29,3 @@ Recriar e estruturar o frontend da página aplicando boas práticas de desenvolv
 - GitHub  
 
 ---
-
-## 📂 Estrutura do Projeto
-FrontEnd-projeto/
-│
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-#│ └── script.js
-#└── README.md
